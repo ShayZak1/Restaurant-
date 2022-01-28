@@ -1,8 +1,11 @@
 # Restaurant-
+
 This projects describes a running restaurant with linked lists by receiving 2 files that describes the dishes and another files that describes the orders of the tables
 
 Instuctions:
+
 in order to run this code.
+
 1.copy all files into one folder ( home3.c ,Header.h , FuncitonH3.c , Manot.txt , Instruction.txt)
 
 2. create new C project and copy 3 files into the project (  home3.c ,Header.h , FuncitonH3.c)
